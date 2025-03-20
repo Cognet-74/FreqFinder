@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-FreqFinder is a comprehensive Python framework for frequency band discovery, signal decomposition, and stationarity testing in time series data. The framework integrates multiple methodologies including Unsupervised Frequency Band Discovery (UFBD) and Inchworm Frequency Band Analysis (FEBA) with a unified API.
+FreqFinder is a comprehensive and novel Python framework for frequency band discovery, signal decomposition, and stationarity testing in time series data and integrates statistical and machine learning methods.
 
 ## Features
 
